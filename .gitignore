@@ -1,0 +1,8 @@
+# Python venv
+venv/
+
+# python cache
+__pycache__/
+
+# Ignore macOS metadata files
+.DS_Store
