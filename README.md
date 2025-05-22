@@ -11,7 +11,7 @@ A simple script to flatten a two-level folder hierarchy.
 Requires Python 3.6 or newer.
 
 ```sh
-python src/fix_job_hierarchy.py /path/to/your_folder
+python src/fix_double_job_hierarchy.py /path/to/your_folder
 ```
 
 ## Example
